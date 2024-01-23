@@ -1,0 +1,14 @@
+D:\Program Files\Cs\FileMerger\FileMerger\bin\Debug\net6.0\FileMerger.exe
+D:\Program Files\Cs\FileMerger\FileMerger\bin\Debug\net6.0\FileMerger.deps.json
+D:\Program Files\Cs\FileMerger\FileMerger\bin\Debug\net6.0\FileMerger.runtimeconfig.json
+D:\Program Files\Cs\FileMerger\FileMerger\bin\Debug\net6.0\FileMerger.dll
+D:\Program Files\Cs\FileMerger\FileMerger\bin\Debug\net6.0\FileMerger.pdb
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\FileMerger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\FileMerger.AssemblyInfoInputs.cache
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\FileMerger.AssemblyInfo.cs
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\FileMerger.csproj.CoreCompileInputs.cache
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\FileMerger.dll
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\refint\FileMerger.dll
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\FileMerger.pdb
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\FileMerger.genruntimeconfig.cache
+D:\Program Files\Cs\FileMerger\FileMerger\obj\Debug\net6.0\ref\FileMerger.dll
